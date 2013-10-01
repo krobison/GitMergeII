@@ -9,4 +9,8 @@ public class Car {
 	public void brake(){
 		
 	}
+	
+	public void accelerate() {
+		
+	}
 }
